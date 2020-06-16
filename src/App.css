@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+.Calc{
+  max-width: 400px;
+  margin: auto;
+}
+.results{
+  height: 60px;
+  background-color:gray;
+  width: 100%;
+  margin-bottom: auto;
+}
+.results p{
+  font-size: 30px;
+  
+  
+}
+.buttons {
+  display: block;
+  width: 100%;
+  background-color: azure;
+  padding-left: 1px;
+}
+  
+ .buttons button{
+  height: 60px;
+  font-size: 30px;
+  width: 100px;
+  background-color: tomato;
+}
